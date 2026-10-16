@@ -1,0 +1,41 @@
+branch_id,branch_name,city,state,region,opening_date,employee_count
+BR001,Jacksonville Branch,Jacksonville,FL,South,2005-11-27,48
+BR002,Chicago Branch,Chicago,IL,Central,2002-09-13,36
+BR003,Anchorage Branch,Anchorage,AK,West,2002-08-28,40
+BR004,San Diego Branch,San Diego,CA,West,2004-08-31,18
+BR005,Washington Branch,Washington,DC,East,1988-05-10,43
+BR006,Colorado Springs Branch,Colorado Springs,CO,Central,2000-10-04,46
+BR007,Virginia Beach Branch,Virginia Beach,VA,South,1997-05-22,23
+BR008,Boston Branch,Boston,MA,East,2002-04-30,25
+BR009,Las Vegas Branch,Las Vegas,NV,West,1991-08-19,33
+BR010,Memphis Branch,Memphis,TN,South,1988-10-31,27
+BR011,Pittsburgh Branch,Pittsburgh,PA,East,2009-11-07,16
+BR012,Los Angeles Branch,Los Angeles,CA,West,2003-05-18,10
+BR013,Jacksonville Branch,Jacksonville,FL,South,2001-01-03,22
+BR014,San Jose Branch,San Jose,CA,West,2000-03-19,22
+BR015,Minneapolis Branch,Minneapolis,MN,North,2001-09-13,45
+BR016,Minneapolis Branch,Minneapolis,MN,North,2003-02-26,44
+BR017,Omaha Branch,Omaha,NE,Central,2008-02-11,32
+BR018,Philadelphia Branch,Philadelphia,PA,East,1989-03-18,30
+BR019,Jacksonville Branch,Jacksonville,FL,South,2002-02-21,28
+BR020,Colorado Springs Branch,Colorado Springs,CO,Central,1999-12-05,40
+BR021,Portland Branch,Portland,OR,West,2001-01-17,34
+BR022,Louisville Branch,Louisville,KY,South,2001-04-20,10
+BR023,Washington Branch,Washington,DC,East,2003-09-08,27
+BR024,San Diego Branch,San Diego,CA,West,1987-04-12,36
+BR025,Atlanta Branch,Atlanta,GA,South,1991-02-13,28
+BR026,Memphis Branch,Memphis,TN,South,1999-03-19,35
+BR027,Stockton Branch,Stockton,CA,West,1998-02-13,45
+BR028,El Paso Branch,El Paso,TX,South,2003-12-26,24
+BR029,Jacksonville Branch,Jacksonville,FL,South,1986-04-27,22
+BR030,New Orleans Branch,New Orleans,LA,South,2004-05-25,30
+BR031,Atlanta Branch,Atlanta,GA,South,2001-04-10,12
+BR032,Austin Branch,Austin,TX,South,2008-10-14,18
+BR033,Boston Branch,Boston,MA,East,1990-08-13,48
+BR034,Baltimore Branch,Baltimore,MD,East,1991-11-08,37
+BR035,Atlanta Branch,Atlanta,GA,South,1994-04-26,30
+BR036,Nashville Branch,Nashville,TN,South,1999-01-27,30
+BR037,Denver Branch,Denver,CO,Central,1988-02-09,50
+BR038,Los Angeles Branch,Los Angeles,CA,West,2003-01-29,44
+BR039,Sacramento Branch,Sacramento,CA,West,2005-01-10,28
+BR040,Washington Branch,Washington,DC,East,2009-11-03,14

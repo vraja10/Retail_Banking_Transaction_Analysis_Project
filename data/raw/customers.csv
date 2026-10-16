@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,date_of_birth,gender,city,state,customer_since,kyc_status,segment,annual_income,credit_score,is_active
+C000001,Steven,Davis,1981-07-21,Male,Memphis,TN,2018-05-08,Verified,Retail,286275,824,Yes
+C000002,Brenda,Taylor,1980-04-20,Male,Albuquerque,NM,2019-07-13,Pending,Student,216509,749,Yes
+C000003,Xiao,Green,1959-07-04,Male,Indianapolis,IN,2014-09-04,Failed,Business,77992,805,No
+C000004,Carol,Lewis,1960-12-13,Non-binary,Baltimore,MD,2018-06-16,Partial,Wealth,82660,579,Yes
+C000005,Vijay,Jung,1987-01-26,Non-binary,Virginia Beach,VA,2011-01-30,Failed,Business,244918,559,No
+C000006,Andrew,Hall,1993-09-06,Non-binary,Oklahoma City,OK,2018-04-22,Partial,Student,190978,581,Yes
+C000007,Jason,Koné,1965-10-30,Non-binary,Pittsburgh,PA,2021-06-03,Pending,Student,213495,517,Yes
+C000008,Cynthia,Wu,1999-09-23,Male,Baltimore,MD,2020-03-28,Failed,Senior,172654,849,No
+C000009,Benjamin,Kim,1957-07-06,Female,Fresno,CA,2015-09-15,Partial,Retail,63644,537,Yes
+C000010,Andrew,Patel,1974-10-14,Non-binary,Tucson,AZ,2018-04-02,Pending,Retail,89187,536,Yes
+C000011,Laura,Kim,1984-08-17,Non-binary,Colorado Springs,CO,2023-06-12,Failed,Business,69535,706,No
+C000012,Alexander,Smith,1975-02-13,Male,Memphis,TN,2012-01-11,Verified,Senior,291127,769,Yes
+C000013,Sandra,Kim,1994-12-29,Non-binary,Minneapolis,MN,2020-12-19,Verified,Wealth,188796,584,Yes
+C000014,Sharon,Gonzalez,1991-07-03,Non-binary,San Antonio,TX,2013-08-12,Pending,Student,125245,752,Yes
+C000015,Donald,Mbeki,1990-02-07,Male,Chicago,IL,2022-07-05,Verified,Senior,50158,758,Yes
+C000016,Dorothy,Lee,1987-01-13,Male,Minneapolis,MN,2020-01-05,Verified,Retail,165162,732,No
+C000017,Donald,Wright,1995-05-26,Female,Jacksonville,FL,2022-09-03,Verified,Senior,264542,726,Yes
+C000018,Ryan,Wu,1960-11-04,Male,Nashville,TN,2021-08-14,Pending,Student,265386,591,Yes
+C000019,Christopher,Campbell,1964-05-29,Female,Indianapolis,IN,2018-03-19,Verified,Student,109578,842,Yes
+C000020,Thomas,Zhang,1991-09-02,Non-binary,Aurora,CO,2018-07-22,Verified,Retail,38814,759,Yes
+C000021,Isabella,Nelson,1984-09-30,Non-binary,Anchorage,AK,2012-12-21,Failed,Premium,112565,600,No
+C000022,Ethan,Clark,1985-04-18,Female,Santa Ana,CA,2016-11-09,Verified,Business,107654,849,Yes
+C000023,Nicole,Martinez,1958-01-08,Non-binary,Denver,CO,2012-05-09,Verified,Student,181869,619,Yes
+C000024,Rahul,Garcia,1999-11-22,Non-binary,Colorado Springs,CO,2018-07-25,Partial,Business,277792,609,Yes
+C000025,Gary,Lee,1995-07-28,Female,Portland,OR,2014-11-26,Verified,Business,161753,620,Yes
+C000026,Amanda,Roberts,1999-03-15,Female,Kansas City,MO,2019-08-25,Failed,Student,136594,712,No
+C000027,Maria,Carter,1966-02-14,Female,St. Louis,MO,2013-04-20,Failed,Premium,60652,754,No
+C000028,Ryan,Wilson,1999-08-14,Male,Mesa,AZ,2023-11-29,Partial,Retail,149146,589,Yes
+C000029,William,Kim,1989-04-16,Male,Fort Worth,TX,2014-08-07,Failed,Senior,227881,676,No
+C000030,Melissa,Kim,1967-02-20,Male,San Antonio,TX,2016-05-31,Partial,Student,227936,671,Yes
+C000031,Ryan,Scott,1988-12-19,Female,Kansas City,MO,2012-05-19,Partial,Premium,103779,566,Yes
+C000032,Linda,Torres,1970-03-07,Male,Portland,OR,2023-07-26,Partial,Premium,175959,612,Yes
+C000033,Ronald,Rivera,1962-08-03,Female,Denver,CO,2022-10-01,Partial,Business,218301,598,Yes
+C000034,Lisa,Clark,1990-04-16,Non-binary,Indianapolis,IN,2020-01-26,Pending,Retail,78283,526,Yes
+C000035,Fang,Mitchell,2000-04-06,Female,St. Louis,MO,2023-12-23,Pending,Wealth,288027,600,Yes
+C000036,Amit,Gonzalez,1988-09-16,Male,Tucson,AZ,2020-06-23,Verified,Senior,92030,656,Yes
+C000037,Jessica,Mensah,1961-10-16,Male,Jacksonville,FL,2011-07-27,Verified,Business,286631,620,Yes
+C000038,John,Osei,1998-10-29,Non-binary,Atlanta,GA,2018-05-18,Partial,Premium,184805,549,Yes
+C000039,Priya,Li,1961-07-18,Non-binary,Columbus,OH,2023-03-31,Verified,Retail,88774,628,Yes
+C000040,James,Osei,1968-07-02,Non-binary,Riverside,CA,2011-06-06,Failed,Senior,96563,525,No
+C000041,Benjamin,Mbeki,1959-03-27,Male,New Orleans,LA,2017-02-19,Partial,Retail,162440,780,Yes
+C000042,Lei,Koné,1996-04-07,Non-binary,Washington,DC,2020-05-02,Failed,Student,74913,542,No
+C000043,Patrick,Williams,1974-07-19,Non-binary,Chicago,IL,2013-10-24,Partial,Wealth,284703,810,Yes
+C000044,Barbara,Kumar,1995-05-27,Female,Dallas,TX,2017-09-01,Partial,Wealth,183856,659,Yes
+C000045,Carolyn,Scott,1959-08-25,Non-binary,Mesa,AZ,2017-10-26,Pending,Premium,130939,687,Yes
+C000046,Justin,Mensah,1981-11-15,Female,Las Vegas,NV,2018-07-22,Verified,Premium,110961,646,Yes
+C000047,Patricia,Wang,1973-07-30,Male,Riverside,CA,2010-10-28,Failed,Premium,87473,755,No
+C000048,Dorothy,Smith,1974-03-04,Female,Kansas City,MO,2011-04-04,Failed,Retail,297987,840,No
+C000049,Amy,Taylor,1968-07-07,Male,Tampa,FL,2022-08-09,Pending,Business,87662,677,Yes
+C000050,Maria,Ndidi,1965-01-02,Non-binary,Seattle,WA,2021-08-14,Verified,Student,269925,750,Yes
+C000051,Hong,King,1969-11-25,Female,Baltimore,MD,2013-12-24,Pending,Premium,46418,677,Yes
+C000052,Lei,Green,1964-11-15,Male,Albuquerque,NM,2017-05-28,Partial,Senior,212499,654,Yes
+C000053,Betty,Lopez,1960-06-20,Non-binary,Philadelphia,PA,2019-07-06,Failed,Wealth,243163,522,No
+C000054,Samuel,Garcia,1979-07-07,Non-binary,Tucson,AZ,2016-06-24,Partial,Senior,298090,601,Yes
+C000055,Kenneth,Okonkwo,1974-02-08,Non-binary,Honolulu,HI,2018-03-11,Pending,Wealth,278230,811,Yes
+C000056,Heather,Zhang,1967-03-26,Female,Corpus Christi,TX,2020-11-19,Partial,Student,235096,651,Yes
+C000057,Hui,Green,1985-08-24,Male,Dallas,TX,2021-12-05,Pending,Retail,177693,594,Yes
+C000058,Brian,Rivera,1960-02-06,Male,Baltimore,MD,2014-10-23,Failed,Wealth,140743,617,No
+C000059,James,Huang,1964-06-25,Non-binary,New York,NY,2017-12-10,Partial,Wealth,71644,815,Yes
+C000060,Mary,Zhou,1981-01-08,Female,Mesa,AZ,2012-05-20,Verified,Premium,262320,703,Yes
+C000061,Benjamin,Ramirez,2000-02-01,Male,Indianapolis,IN,2023-09-22,Failed,Business,95895,567,No
+C000062,Ethan,Sharma,1986-09-13,Male,Portland,OR,2015-05-26,Verified,Student,96857,588,Yes
+C000063,Margaret,Iyer,1993-05-24,Female,Kansas City,MO,2011-09-01,Verified,Retail,242132,582,Yes
+C000064,Rahul,Nguyen,1974-06-09,Male,Kansas City,MO,2020-11-15,Verified,Business,209245,812,Yes
+C000065,Scott,Wright,1972-01-28,Male,Long Beach,CA,2012-02-04,Failed,Premium,156491,582,No
+C000066,Angela,Jackson,1976-11-09,Male,Colorado Springs,CO,2022-07-06,Partial,Student,148780,845,No
+C000067,Michael,Wilson,1971-08-29,Female,Kansas City,MO,2020-02-14,Verified,Premium,261585,703,Yes
+C000068,Jun,Li,1990-06-19,Non-binary,Lexington,KY,2020-01-05,Pending,Wealth,164162,521,Yes
+C000069,Samantha,Flores,1988-07-19,Male,Omaha,NE,2010-12-14,Partial,Student,76963,653,Yes
+C000070,Jacob,Perez,1976-02-06,Male,Kansas City,MO,2022-04-12,Verified,Wealth,116918,610,Yes
+C000071,George,Gonzalez,1958-12-02,Non-binary,Boston,MA,2020-10-08,Partial,Premium,63003,821,Yes
+C000072,Emily,Shah,1977-04-06,Female,Tucson,AZ,2016-06-28,Pending,Senior,268269,778,No
+C000073,Samuel,Mensah,1993-06-15,Male,San Francisco,CA,2018-04-19,Verified,Retail,113249,780,Yes
+C000074,Neha,Lewis,1988-04-23,Non-binary,New Orleans,LA,2015-01-21,Pending,Retail,89429,563,Yes
+C000075,Emma,Hill,1994-01-06,Male,Anchorage,AK,2022-02-24,Verified,Senior,195182,793,Yes
+C000076,Xiao,Hill,1986-07-14,Female,New Orleans,LA,2012-06-05,Verified,Business,45353,533,Yes
+C000077,Shirley,Torres,1986-02-16,Male,Honolulu,HI,2016-02-09,Verified,Senior,114426,705,Yes
+C000078,James,White,1990-02-08,Male,Corpus Christi,TX,2019-10-23,Verified,Premium,26908,849,Yes
+C000079,Jonathan,Young,1971-05-18,Male,Honolulu,HI,2012-04-02,Partial,Business,52399,798,Yes
+C000080,Christopher,Iyer,1957-11-26,Male,Houston,TX,2023-09-23,Failed,Business,206488,712,No
+C000081,Yan,Lewis,1989-08-31,Non-binary,Fresno,CA,2023-12-23,Verified,Retail,227397,723,Yes
+C000082,Lei,Chen,1991-03-18,Male,St. Louis,MO,2022-06-26,Verified,Business,192071,833,Yes
+C000083,Betty,Thompson,1977-05-14,Male,Philadelphia,PA,2018-11-19,Pending,Business,229108,749,Yes
+C000084,Debra,Lee,1963-04-15,Female,Dallas,TX,2014-06-24,Failed,Wealth,54708,816,No
+C000085,Steven,Allen,1973-04-23,Female,San Diego,CA,2019-07-13,Verified,Business,226580,742,Yes
+C000086,Samantha,Campbell,1956-10-28,Male,Austin,TX,2022-05-23,Verified,Student,204449,617,Yes
+C000087,Benjamin,Hernandez,1982-09-08,Female,Minneapolis,MN,2016-01-26,Pending,Senior,199614,751,Yes
+C000088,Lei,Perez,1991-04-09,Non-binary,Austin,TX,2013-04-19,Pending,Retail,114708,784,Yes
+C000089,Elizabeth,Taylor,1958-10-22,Male,Indianapolis,IN,2012-10-08,Failed,Retail,218596,739,No
+C000090,Steven,Chen,1960-01-08,Female,El Paso,TX,2022-07-26,Verified,Premium,295070,795,Yes
+C000091,Samuel,Martinez,1994-09-25,Female,Portland,OR,2013-07-24,Verified,Wealth,122772,508,Yes
+C000092,Jun,Baker,1961-06-28,Non-binary,Raleigh,NC,2019-09-24,Failed,Student,87523,752,No
+C000093,Stephanie,Yoon,1988-10-18,Non-binary,Houston,TX,2022-06-20,Partial,Business,246955,524,Yes
+C000094,Ryan,Nelson,1966-01-31,Female,Omaha,NE,2020-02-26,Verified,Wealth,86147,811,Yes
+C000095,Carolyn,Martinez,1979-12-25,Male,Long Beach,CA,2013-05-29,Partial,Wealth,171671,837,Yes
+C000096,Gregory,Adesanya,1968-12-30,Non-binary,Long Beach,CA,2022-08-15,Partial,Wealth,105219,815,Yes
+C000097,Christopher,Green,1957-03-09,Male,New York,NY,2010-07-16,Verified,Student,171744,547,Yes
+C000098,Lei,Clark,1984-12-04,Male,Long Beach,CA,2010-10-14,Verified,Business,120771,822,Yes
+C000099,Jerry,Ramirez,1970-05-12,Female,Anchorage,AK,2011-12-24,Verified,Business,138317,622,Yes
+C000100,Betty,Gupta,1976-08-21,Male,Anaheim,CA,2018-06-24,Failed,Student,60579,781,No
+C000101,Nancy,Wang,1991-07-08,Female,Stockton,CA,2012-05-26,Verified,Student,99314,607,Yes
+C000102,Amy,Lopez,1993-06-05,Male,Virginia Beach,VA,2020-12-08,Failed,Retail,92591,754,No
+C000103,Fang,Kim,1985-08-14,Non-binary,Kansas City,MO,2020-09-01,Pending,Business,138330,780,Yes
+C000104,Amy,Gupta,1967-06-08,Female,Austin,TX,2015-11-08,Pending,Student,36793,634,Yes
+C000105,Yan,King,1961-05-06,Male,Oklahoma City,OK,2015-05-13,Pending,Senior,261971,661,Yes
+C000106,Ronald,Martinez,1995-11-02,Female,Atlanta,GA,2014-05-03,Pending,Student,100509,765,Yes
+C000107,Brandon,Smith,1955-09-18,Female,Phoenix,AZ,2020-02-19,Partial,Senior,215621,512,Yes
+C000108,Jessica,Anderson,1958-12-10,Female,Mesa,AZ,2011-09-22,Verified,Business,187143,646,Yes
+C000109,Jacob,Jones,1998-08-12,Female,San Jose,CA,2019-01-02,Failed,Business,72656,587,No
+C000110,Samuel,Rodriguez,1992-02-15,Non-binary,Stockton,CA,2022-04-19,Pending,Premium,253359,651,Yes
+C000111,Heather,Nelson,1965-03-04,Non-binary,Aurora,CO,2019-06-22,Partial,Retail,222087,572,Yes
+C000112,Charles,Koné,1971-08-25,Male,Virginia Beach,VA,2023-11-08,Verified,Premium,64690,778,Yes
+C000113,Ming,Campbell,1960-01-12,Non-binary,St. Louis,MO,2011-07-18,Partial,Senior,204643,638,No
+C000114,Larry,Perez,1992-05-16,Female,Philadelphia,PA,2022-02-21,Pending,Senior,274600,657,Yes
+C000115,Donna,Taylor,1991-06-23,Male,Sacramento,CA,2018-08-09,Failed,Senior,247295,568,No
+C000116,Rahul,Li,1997-04-29,Male,Corpus Christi,TX,2017-02-10,Failed,Premium,151965,798,No
+C000117,Jerry,Hill,1993-06-11,Male,St. Louis,MO,2016-03-14,Verified,Wealth,271215,504,Yes
+C000118,Gregory,Roberts,1985-02-24,Non-binary,Dallas,TX,2011-07-12,Failed,Senior,207006,537,No
+C000119,Larry,Ramirez,1965-06-06,Female,Jacksonville,FL,2012-08-28,Failed,Wealth,223171,826,No
+C000120,Alexander,Kang,1967-06-06,Male,Indianapolis,IN,2018-03-20,Pending,Retail,90652,735,Yes
+C000121,Daniel,Jung,2000-03-20,Male,Dallas,TX,2023-12-23,Partial,Senior,80360,826,Yes
+C000122,Kathleen,Nguyen,1997-11-17,Non-binary,Jacksonville,FL,2018-04-09,Pending,Premium,292346,712,Yes
+C000123,Daniel,Joshi,1969-07-18,Non-binary,Anaheim,CA,2010-05-02,Verified,Premium,78685,746,Yes
+C000124,Ming,Mensah,1997-06-10,Female,Phoenix,AZ,2023-12-23,Pending,Wealth,211279,641,No
+C000125,Betty,Nair,1971-08-06,Female,Boston,MA,2020-02-10,Verified,Senior,64456,844,Yes
+C000126,Kimberly,Perez,1973-03-19,Female,Columbus,OH,2021-08-10,Failed,Wealth,26076,629,No
+C000127,Jun,White,1976-05-27,Male,Stockton,CA,2010-04-13,Partial,Student,169544,666,Yes
+C000128,Benjamin,White,1987-04-13,Non-binary,Las Vegas,NV,2023-03-26,Partial,Business,37905,700,Yes
+C000129,Melissa,Hall,1957-02-04,Male,Memphis,TN,2014-04-07,Failed,Business,59957,617,No
+C000130,James,Koné,1967-06-02,Male,San Francisco,CA,2010-10-21,Verified,Retail,237031,623,Yes
+C000131,Raymond,Johnson,1955-01-16,Female,Milwaukee,WI,2019-06-24,Verified,Retail,57871,569,No
+C000132,Paul,Carter,1957-08-27,Male,Boston,MA,2017-04-19,Verified,Student,92805,636,Yes
+C000133,Emma,Okonkwo,1986-11-12,Non-binary,Lexington,KY,2019-01-31,Partial,Retail,287083,779,Yes
+C000134,Patricia,Campbell,1980-09-25,Non-binary,Boston,MA,2019-04-10,Verified,Business,217099,623,Yes
+C000135,Dennis,Lopez,1977-04-28,Non-binary,Corpus Christi,TX,2015-08-13,Pending,Student,41903,541,Yes
+C000136,Jerry,Harris,1972-06-07,Female,Boston,MA,2017-12-07,Partial,Student,126161,525,Yes
+C000137,Vijay,Martinez,1994-01-27,Female,Oklahoma City,OK,2018-06-30,Failed,Retail,129503,547,No
+C000138,Wei,Nair,1971-10-07,Female,St. Louis,MO,2016-02-03,Verified,Business,75925,614,Yes
+C000139,Donna,Wu,1956-04-22,Male,Riverside,CA,2021-06-08,Partial,Wealth,210670,532,Yes
+C000140,Thomas,Hill,1969-01-16,Male,Aurora,CO,2016-12-23,Failed,Retail,95747,550,No
+C000141,Michelle,Singh,1967-04-09,Female,Baltimore,MD,2015-09-08,Pending,Wealth,214029,631,Yes
+C000142,Timothy,Sanchez,1963-11-06,Non-binary,San Diego,CA,2016-12-12,Pending,Wealth,70585,745,Yes
+C000143,Isabella,Carter,1982-08-21,Non-binary,Philadelphia,PA,2011-02-28,Verified,Student,48683,816,Yes
+C000144,Melissa,Adesanya,1956-10-29,Non-binary,Nashville,TN,2020-01-21,Pending,Senior,46616,766,Yes
+C000145,Patrick,Shah,1964-10-11,Non-binary,San Diego,CA,2023-06-21,Pending,Senior,90299,543,Yes
+C000146,Pooja,Garcia,1967-06-04,Male,Honolulu,HI,2018-07-04,Verified,Business,210284,740,Yes
+C000147,Priya,Thomas,1970-11-24,Female,Sacramento,CA,2012-10-23,Partial,Business,240629,696,Yes
+C000148,Sandra,Nelson,1985-06-02,Female,St. Louis,MO,2022-12-21,Verified,Student,265792,504,Yes
+C000149,Nicholas,Singh,1991-01-18,Male,Charlotte,NC,2012-09-11,Verified,Business,35466,811,Yes
+C000150,Debra,Williams,1994-06-01,Male,St. Louis,MO,2016-10-17,Pending,Senior,136032,704,Yes
+C000151,Christopher,Sow,1996-01-04,Female,Charlotte,NC,2014-08-17,Verified,Student,76048,720,Yes
+C000152,William,Kumar,1975-02-16,Male,Santa Ana,CA,2016-01-24,Partial,Premium,61950,584,Yes
+C000153,Angela,Martinez,1965-01-20,Non-binary,Philadelphia,PA,2014-08-01,Failed,Senior,108885,628,No
+C000154,Jeffrey,Gonzalez,1980-08-09,Male,Riverside,CA,2011-07-26,Verified,Business,100345,535,Yes
+C000155,Daniel,Allen,1985-08-03,Non-binary,Long Beach,CA,2011-06-03,Pending,Senior,79031,687,Yes
+C000156,Katherine,Chen,1961-04-20,Male,Pittsburgh,PA,2016-08-06,Failed,Student,120112,624,No
+C000157,Noah,Johnson,1964-08-27,Female,Jacksonville,FL,2013-02-13,Partial,Retail,31799,774,Yes
+C000158,Lisa,Jung,1984-01-05,Female,Sacramento,CA,2010-09-07,Verified,Business,296921,736,No
+C000159,Robert,Mehta,1964-04-30,Female,Louisville,KY,2022-12-12,Failed,Premium,237900,806,No
+C000160,Amit,Allen,1970-09-18,Non-binary,Washington,DC,2017-02-17,Verified,Student,181327,548,Yes
+C000161,Shirley,Thompson,1964-12-21,Non-binary,Baltimore,MD,2019-06-10,Partial,Business,167031,564,Yes
+C000162,Hong,Mitchell,1969-04-03,Non-binary,Oklahoma City,OK,2020-06-29,Pending,Retail,190332,766,Yes
+C000163,Steven,Sanchez,1976-05-17,Male,Santa Ana,CA,2014-04-22,Partial,Business,159896,755,Yes
+C000164,Mason,Davis,1989-12-06,Non-binary,Pittsburgh,PA,2017-11-22,Failed,Student,297365,694,No
+C000165,Brandon,Lewis,1990-10-07,Male,Oklahoma City,OK,2020-03-07,Failed,Premium,298667,768,No
+C000166,Lei,Ramirez,1959-12-09,Non-binary,San Jose,CA,2022-03-16,Pending,Retail,45714,559,Yes
+C000167,Alexander,Li,1961-09-12,Male,Charlotte,NC,2012-04-11,Partial,Senior,50872,841,Yes
+C000168,Kimberly,Nair,1979-09-08,Female,Chicago,IL,2017-02-26,Failed,Wealth,160396,529,No
+C000169,Rachel,Lim,1992-10-23,Male,Sacramento,CA,2023-11-15,Verified,Senior,61743,559,Yes
+C000170,Rohit,Scott,1961-01-07,Female,Albuquerque,NM,2018-04-02,Partial,Premium,258452,628,Yes
+C000171,Donald,Li,2000-06-21,Male,New York,NY,2023-12-23,Partial,Retail,44975,712,Yes
+C000172,Frank,Yoon,1981-04-07,Female,Omaha,NE,2015-08-13,Partial,Retail,82689,501,Yes
+C000173,Vijay,Ramirez,2000-04-10,Female,Atlanta,GA,2023-04-25,Failed,Premium,196942,785,No
+C000174,Charles,Liu,1973-03-14,Male,Honolulu,HI,2022-09-04,Partial,Wealth,133864,774,Yes
+C000175,Katherine,Davis,1959-06-11,Non-binary,Sacramento,CA,2021-12-24,Verified,Senior,84336,511,Yes
+C000176,Xiao,Traoré,1992-11-12,Male,Mesa,AZ,2020-10-02,Partial,Senior,51290,756,Yes
+C000177,Justin,Lee,1997-01-28,Non-binary,Albuquerque,NM,2016-02-07,Partial,Business,230265,563,No
+C000178,Ronald,Rivera,1961-04-11,Male,Anchorage,AK,2023-07-03,Pending,Retail,241896,547,Yes
+C000179,Stephanie,Martin,1966-04-23,Female,Atlanta,GA,2015-03-05,Pending,Retail,73756,641,Yes
+C000180,Jason,Jackson,1983-12-27,Male,Louisville,KY,2023-03-28,Failed,Premium,157713,539,No
+C000181,Dorothy,Martinez,1982-04-16,Non-binary,Stockton,CA,2012-03-09,Verified,Senior,277733,557,Yes
+C000182,Larry,Yoon,1960-07-15,Non-binary,Pittsburgh,PA,2015-02-15,Partial,Business,96803,758,Yes
+C000183,Kathleen,Patel,1964-02-06,Non-binary,Stockton,CA,2014-08-26,Partial,Premium,35395,821,Yes
+C000184,Dorothy,Iyer,1955-10-16,Non-binary,Atlanta,GA,2015-04-07,Partial,Premium,202627,762,Yes
+C000185,George,Choi,1984-06-28,Male,Boston,MA,2017-11-24,Failed,Retail,100067,619,No
+C000186,Stephen,Martin,1999-02-13,Female,Portland,OR,2020-02-26,Verified,Wealth,236842,782,Yes
+C000187,Lisa,Harris,1955-07-17,Male,Raleigh,NC,2015-05-02,Failed,Premium,263460,544,No
+C000188,Carolyn,Nguyen,1955-06-28,Female,Baltimore,MD,2022-12-15,Pending,Wealth,125544,607,Yes
+C000189,Mary,Wilson,1984-02-23,Non-binary,Austin,TX,2018-09-01,Partial,Business,82381,613,Yes
+C000190,Jennifer,Davis,1974-05-26,Female,Austin,TX,2020-04-17,Pending,Premium,178951,772,Yes
+C000191,Divya,Liu,1971-06-07,Male,Charlotte,NC,2016-02-03,Failed,Business,103887,591,No
+C000192,Gregory,Hill,1998-09-18,Non-binary,Oklahoma City,OK,2020-07-05,Failed,Student,159508,787,No
+C000193,Amit,Baker,1973-12-28,Male,El Paso,TX,2022-03-28,Partial,Student,288863,513,Yes
+C000194,Melissa,Flores,1989-05-11,Non-binary,Riverside,CA,2023-10-12,Pending,Student,223449,718,Yes
+C000195,Joseph,Martinez,1993-01-11,Non-binary,Milwaukee,WI,2013-04-29,Pending,Student,34039,689,Yes
+C000196,Pamela,Okonkwo,1991-11-22,Male,Sacramento,CA,2021-09-07,Verified,Student,160779,508,Yes
+C000197,Michael,Lee,1973-05-23,Female,Phoenix,AZ,2018-11-10,Verified,Wealth,67464,521,Yes
+C000198,Kimberly,King,1998-12-16,Female,Nashville,TN,2020-08-29,Failed,Wealth,233710,555,No
+C000199,Neha,Adesanya,1966-06-03,Male,Anaheim,CA,2017-04-30,Partial,Senior,167385,664,Yes
+C000200,Nancy,Traoré,1976-08-12,Male,Omaha,NE,2021-12-09,Verified,Retail,38520,725,Yes
+C000201,Debra,Green,1996-09-25,Female,El Paso,TX,2016-08-27,Pending,Wealth,129592,823,Yes
+C000202,Maria,Nair,1962-07-10,Female,Memphis,TN,2018-09-26,Verified,Premium,65861,623,Yes
+C000203,Divya,Kang,2000-11-15,Male,Anchorage,AK,2023-12-23,Pending,Wealth,133188,561,Yes
+C000204,Sharon,Davis,1960-01-10,Female,Charlotte,NC,2023-01-20,Failed,Senior,184493,754,No
+C000205,Wei,Flores,1975-10-18,Male,Las Vegas,NV,2017-01-27,Partial,Business,229793,646,Yes
+C000206,Arjun,Harris,1996-02-07,Male,Boston,MA,2016-05-28,Partial,Student,273467,728,No
+C000207,Amanda,Sharma,1969-04-05,Male,Portland,OR,2016-08-10,Verified,Premium,56195,746,No
+C000208,Matthew,Okonkwo,1975-03-09,Male,Fort Worth,TX,2020-05-15,Pending,Wealth,252735,827,Yes
+C000209,Isabella,Perez,1958-02-08,Female,Portland,OR,2021-02-10,Verified,Business,145437,822,Yes
+C000210,Gary,Ndidi,1972-11-10,Non-binary,Sacramento,CA,2021-01-21,Verified,Wealth,62210,597,Yes
+C000211,Cynthia,Robinson,1982-05-19,Female,Denver,CO,2011-05-14,Partial,Student,161327,616,Yes
+C000212,Susan,Rivera,1957-06-12,Non-binary,Long Beach,CA,2013-05-31,Pending,Student,139251,808,Yes
+C000213,Mason,Lee,1983-05-06,Non-binary,Riverside,CA,2017-11-05,Partial,Wealth,106411,742,No
+C000214,Ashley,Lim,1997-06-09,Female,Omaha,NE,2023-12-23,Failed,Senior,194592,693,No
+C000215,Jonathan,Iyer,1989-05-15,Non-binary,Las Vegas,NV,2019-05-25,Verified,Student,103360,813,Yes
+C000216,Jeffrey,Wilson,1988-11-02,Male,Seattle,WA,2010-03-29,Partial,Student,136705,647,Yes
+C000217,John,Chen,1959-09-12,Non-binary,Memphis,TN,2017-09-18,Verified,Wealth,124807,573,Yes
+C000218,Mark,Williams,1960-05-05,Male,Tampa,FL,2012-01-06,Partial,Student,119608,568,Yes
+C000219,Rachel,King,1976-01-25,Non-binary,Seattle,WA,2021-09-27,Partial,Wealth,221618,526,No
+C000220,Noah,Kim,1990-06-05,Female,Lexington,KY,2017-10-31,Pending,Retail,264101,842,No
+C000221,Brandon,Walker,2000-03-29,Non-binary,Jacksonville,FL,2018-08-04,Partial,Student,149601,659,Yes
+C000222,Mia,Mensah,1966-04-19,Female,Louisville,KY,2013-05-16,Verified,Retail,52443,730,Yes
+C000223,Carolyn,Brown,1979-05-20,Non-binary,Boston,MA,2010-05-18,Failed,Retail,44654,759,No
+C000224,David,Singh,1966-09-15,Male,New York,NY,2018-06-21,Failed,Premium,146472,797,No
+C000225,Isabella,Sow,1977-04-27,Male,Las Vegas,NV,2018-11-01,Partial,Student,221350,585,Yes
+C000226,Anna,Jones,1980-08-25,Female,Honolulu,HI,2018-07-31,Failed,Senior,29153,644,No
+C000227,Jerry,Campbell,1963-09-07,Non-binary,San Antonio,TX,2020-08-08,Verified,Business,94950,582,Yes
+C000228,Thomas,Sharma,1973-12-16,Non-binary,Milwaukee,WI,2016-02-06,Partial,Senior,269573,682,Yes
+C000229,Patrick,Han,1996-11-29,Female,St. Louis,MO,2018-04-17,Verified,Retail,76874,688,Yes
+C000230,Liam,Sharma,1981-09-21,Female,Portland,OR,2019-07-23,Pending,Business,61359,601,Yes
+C000231,Michelle,Rivera,1973-02-26,Female,Omaha,NE,2023-06-10,Pending,Wealth,118589,746,Yes
+C000232,Christine,Jackson,1996-08-21,Male,Chicago,IL,2020-11-21,Failed,Business,209559,844,No
+C000233,Jessica,Shah,1999-01-06,Non-binary,Chicago,IL,2019-06-05,Verified,Business,128947,760,Yes
+C000234,Rahul,Lee,1975-03-12,Non-binary,Colorado Springs,CO,2015-06-19,Partial,Business,290929,767,Yes
+C000235,Divya,Wilson,1962-03-12,Male,El Paso,TX,2013-12-20,Partial,Senior,64954,641,Yes
+C000236,Michael,Yang,1961-09-30,Male,Anaheim,CA,2012-09-20,Partial,Premium,162682,510,Yes
+C000237,Paul,Thompson,1956-01-03,Female,Kansas City,MO,2014-02-16,Pending,Student,245981,513,Yes
+C000238,Rebecca,Cho,1962-06-24,Male,Louisville,KY,2017-01-21,Verified,Wealth,44665,600,Yes
+C000239,Yan,Singh,1993-10-05,Male,Long Beach,CA,2015-09-20,Failed,Student,241409,504,No
+C000240,Joseph,Brown,1983-03-16,Non-binary,Aurora,CO,2013-05-01,Failed,Retail,274974,708,No
+C000241,Frank,Allen,1979-01-12,Female,Austin,TX,2013-03-04,Failed,Senior,181714,739,No
+C000242,Justin,Cho,1955-02-04,Male,Tucson,AZ,2023-01-31,Partial,Business,189000,706,Yes
+C000243,Justin,Mitchell,1977-10-12,Non-binary,Fort Worth,TX,2015-01-21,Verified,Wealth,92990,831,Yes
+C000244,Hui,Johnson,1962-03-23,Female,Corpus Christi,TX,2022-12-01,Verified,Senior,246931,513,Yes
+C000245,Robert,Jackson,1964-05-18,Male,Santa Ana,CA,2018-11-05,Verified,Business,279903,614,No
+C000246,Samantha,Williams,1989-01-16,Male,Milwaukee,WI,2010-08-26,Failed,Student,259672,849,No
+C000247,Timothy,Yang,1961-06-29,Non-binary,Omaha,NE,2021-07-17,Verified,Retail,282092,731,Yes
+C000248,Jerry,Lee,1969-09-10,Male,Tucson,AZ,2023-05-29,Verified,Premium,38208,668,Yes
+C000249,Liam,Baker,1975-11-04,Female,Fresno,CA,2010-03-17,Pending,Wealth,254002,611,Yes
+C000250,Neha,Mbeki,1955-03-12,Non-binary,Anaheim,CA,2023-08-01,Partial,Wealth,266419,761,Yes
+C000251,Emily,Chen,1959-11-04,Female,Dallas,TX,2016-04-27,Verified,Student,93154,845,Yes
+C000252,Brandon,Wright,1984-07-15,Non-binary,Boston,MA,2016-08-22,Pending,Business,297304,534,Yes
+C000253,Timothy,Kang,1983-02-10,Non-binary,Phoenix,AZ,2010-01-27,Failed,Student,166857,509,No
+C000254,Stephanie,Taylor,1981-08-18,Female,Santa Ana,CA,2022-10-30,Pending,Student,297670,600,Yes
+C000255,Edward,Rodriguez,1969-11-08,Male,Chicago,IL,2012-06-23,Failed,Premium,62350,643,No
+C000256,Donna,Adesanya,2000-02-09,Male,Chicago,IL,2023-12-23,Failed,Premium,41241,657,No
+C000257,Nicholas,Nguyen,1968-02-19,Female,Lexington,KY,2019-05-25,Failed,Senior,35392,554,No
+C000258,Sneha,Wu,1988-01-20,Non-binary,Houston,TX,2016-10-25,Failed,Wealth,125221,714,No
+C000259,Catherine,Hall,1985-01-01,Male,Austin,TX,2017-06-04,Pending,Retail,207277,645,Yes
+C000260,Daniel,Cho,1992-07-20,Non-binary,Pittsburgh,PA,2016-07-21,Verified,Wealth,110268,771,Yes
+C000261,Melissa,Campbell,1985-07-03,Female,Raleigh,NC,2021-08-25,Partial,Premium,260296,514,Yes
+C000262,Jonathan,Lim,1976-02-24,Male,St. Louis,MO,2023-10-27,Verified,Retail,183937,690,Yes
+C000263,William,Wu,1963-08-01,Non-binary,Anaheim,CA,2023-04-15,Verified,Premium,181634,773,No
+C000264,Rahul,Gupta,1981-03-07,Female,Aurora,CO,2011-11-21,Pending,Senior,297534,612,Yes
+C000265,Kenneth,Osei,1992-10-27,Female,Riverside,CA,2015-03-13,Verified,Premium,130706,843,Yes
+C000266,Gregory,King,1997-12-15,Female,Houston,TX,2020-05-11,Verified,Retail,76426,525,Yes
+C000267,Maria,Li,1981-02-04,Non-binary,New Orleans,LA,2011-04-05,Verified,Retail,254923,813,Yes
+C000268,Betty,Green,1996-11-07,Male,Tucson,AZ,2014-12-05,Partial,Business,53779,727,Yes
+C000269,Gregory,Adesanya,1957-01-29,Male,San Antonio,TX,2017-08-26,Pending,Student,178904,685,Yes
+C000270,Dennis,Clark,1986-03-31,Male,Nashville,TN,2015-07-23,Pending,Retail,102736,731,Yes
+C000271,Shirley,Kumar,1968-08-15,Male,Portland,OR,2011-12-24,Failed,Retail,92124,522,No
+C000272,Ling,Nelson,1958-05-07,Non-binary,Jacksonville,FL,2022-01-17,Partial,Student,292031,829,Yes
+C000273,Shirley,Allen,1961-01-10,Non-binary,Phoenix,AZ,2014-04-13,Failed,Retail,134996,791,No
+C000274,Barbara,Baker,1998-11-24,Female,Anaheim,CA,2017-10-01,Partial,Premium,40038,689,Yes
+C000275,Joshua,Park,1957-03-08,Non-binary,Santa Ana,CA,2011-12-03,Partial,Wealth,283392,795,Yes
+C000276,Benjamin,Wright,1962-09-28,Non-binary,San Diego,CA,2011-03-07,Pending,Business,242275,611,Yes
+C000277,Nicole,Lewis,1987-07-26,Female,Omaha,NE,2018-05-10,Pending,Business,181603,821,Yes
+C000278,Katherine,Wilson,1957-04-11,Male,Pittsburgh,PA,2017-09-09,Verified,Business,122315,518,Yes
+C000279,John,Clark,2000-02-20,Male,New Orleans,LA,2023-12-07,Failed,Student,298738,612,No
+C000280,Ronald,Smith,1977-10-11,Female,Phoenix,AZ,2021-03-13,Failed,Student,81161,555,No
+C000281,James,Ndidi,1980-02-07,Male,Los Angeles,CA,2019-07-17,Partial,Premium,283550,507,Yes
+C000282,Divya,Scott,1982-08-06,Non-binary,Albuquerque,NM,2021-04-14,Verified,Business,95047,827,Yes
+C000283,Nicholas,Moore,1957-07-16,Male,Tampa,FL,2012-09-27,Pending,Senior,292718,659,Yes
+C000284,Aiden,Han,1994-03-30,Non-binary,Fort Worth,TX,2020-10-22,Partial,Senior,261677,638,Yes
+C000285,Susan,Lim,1994-12-05,Non-binary,Mesa,AZ,2016-04-07,Verified,Business,67547,814,Yes
+C000286,Carolyn,Kim,1996-04-25,Non-binary,Anaheim,CA,2023-12-23,Verified,Premium,194903,727,Yes
+C000287,William,Scott,1970-07-09,Male,Austin,TX,2015-01-23,Pending,Retail,159123,629,Yes
+C000288,Eric,Zhao,1994-05-07,Male,Dallas,TX,2023-05-05,Pending,Student,292842,796,Yes
+C000289,Emily,Joshi,1985-08-09,Female,Charlotte,NC,2020-02-04,Partial,Student,76888,543,Yes
+C000290,Pooja,Koné,1964-06-28,Female,Sacramento,CA,2016-05-31,Partial,Wealth,204424,742,Yes
+C000291,Scott,Garcia,1969-08-29,Male,Seattle,WA,2014-04-03,Verified,Retail,235667,739,Yes
+C000292,Timothy,Lee,1966-02-04,Male,Phoenix,AZ,2010-06-22,Partial,Senior,269392,678,Yes
+C000293,Noah,Torres,1955-05-03,Male,Fort Worth,TX,2018-02-08,Verified,Premium,276126,650,Yes
+C000294,Michelle,Davis,1958-03-01,Female,Austin,TX,2010-05-16,Verified,Student,156715,814,Yes
+C000295,Lisa,White,1965-05-15,Male,Las Vegas,NV,2023-07-16,Verified,Student,83668,780,Yes
+C000296,Yan,Clark,1963-08-30,Non-binary,Minneapolis,MN,2013-11-22,Failed,Premium,201469,812,No
+C000297,Brenda,Hall,1971-04-30,Male,Charlotte,NC,2019-04-08,Pending,Retail,205768,845,Yes
+C000298,Pamela,Shah,1983-09-25,Non-binary,Sacramento,CA,2017-05-07,Failed,Business,215128,767,No
+C000299,Yan,Flores,1970-04-04,Male,Tampa,FL,2010-03-24,Pending,Wealth,292744,585,Yes
+C000300,Stephen,Lee,1983-10-06,Non-binary,Omaha,NE,2014-05-31,Failed,Senior,169310,607,No
+C000301,Wei,Diallo,1995-03-08,Female,Colorado Springs,CO,2016-10-24,Pending,Retail,236962,759,Yes
+C000302,Jerry,Campbell,1997-04-30,Female,Baltimore,MD,2016-10-27,Pending,Retail,277952,763,Yes
+C000303,Jennifer,Miller,1967-07-05,Male,Virginia Beach,VA,2012-01-24,Pending,Student,160491,837,Yes
+C000304,Mia,Walker,1980-01-14,Female,Anchorage,AK,2012-12-14,Partial,Wealth,202928,568,Yes
+C000305,Nicole,Adesanya,1989-04-07,Female,Boston,MA,2020-08-11,Pending,Student,76180,749,Yes
+C000306,Edward,Clark,1965-03-13,Male,Oklahoma City,OK,2018-04-04,Partial,Premium,133100,716,Yes
+C000307,Christopher,Thomas,1971-04-06,Male,Santa Ana,CA,2015-08-19,Failed,Business,47182,720,No
+C000308,Aiden,Martin,1969-06-02,Male,Omaha,NE,2021-08-10,Pending,Premium,161807,655,Yes
+C000309,Amanda,Choi,1977-01-30,Male,San Diego,CA,2019-07-20,Verified,Premium,294913,610,Yes
+C000310,Matthew,Wilson,1970-01-19,Female,Boston,MA,2023-06-24,Failed,Retail,162796,743,No
+C000311,Pamela,Yoon,1994-12-24,Non-binary,Santa Ana,CA,2016-09-18,Verified,Wealth,155446,842,Yes
+C000312,Nicholas,Mehta,2000-07-05,Female,Fresno,CA,2018-11-13,Verified,Wealth,164585,737,Yes
+C000313,Neha,Mensah,1965-08-24,Non-binary,Dallas,TX,2013-11-24,Failed,Premium,284350,734,No
+C000314,Aiden,Zhang,1995-06-23,Male,Corpus Christi,TX,2017-01-13,Pending,Student,123265,583,Yes
+C000315,Arjun,Traoré,1973-10-30,Male,Minneapolis,MN,2010-09-03,Pending,Business,134956,530,Yes
+C000316,Yan,Lee,1983-12-18,Female,Portland,OR,2017-10-04,Verified,Business,193744,708,Yes
+C000317,Nicole,Wu,1959-11-12,Male,Omaha,NE,2019-09-09,Partial,Retail,60071,819,Yes
+C000318,Raymond,Sharma,1986-04-12,Non-binary,Honolulu,HI,2012-08-04,Verified,Student,124417,751,Yes
+C000319,Janet,Flores,1963-01-18,Female,Riverside,CA,2010-10-23,Verified,Premium,62121,754,Yes
+C000320,Priya,Osei,1982-11-04,Female,Los Angeles,CA,2012-09-01,Partial,Wealth,250294,593,Yes
+C000321,Kathleen,King,1976-11-26,Non-binary,Long Beach,CA,2017-02-08,Partial,Wealth,141735,676,Yes
+C000322,Divya,Adesanya,2000-11-17,Non-binary,Oklahoma City,OK,2019-02-05,Pending,Student,234537,545,Yes
+C000323,Emma,Lee,1968-04-29,Female,Phoenix,AZ,2010-10-06,Failed,Business,44769,723,No
+C000324,Stephanie,Nguyen,1997-01-04,Non-binary,Phoenix,AZ,2015-06-30,Partial,Student,233464,659,Yes
+C000325,Liam,Choi,1968-07-30,Male,Denver,CO,2010-11-01,Verified,Student,57764,693,Yes
+C000326,Susan,Rodriguez,1995-09-07,Male,Long Beach,CA,2019-01-06,Pending,Student,84968,613,Yes
+C000327,Katherine,Campbell,1960-03-09,Male,Memphis,TN,2016-11-13,Partial,Retail,101839,802,Yes
+C000328,Thomas,Wright,1977-07-03,Non-binary,Baltimore,MD,2013-02-23,Failed,Retail,95388,821,No
+C000329,Thomas,Choi,1973-09-14,Non-binary,Portland,OR,2020-06-11,Pending,Retail,150031,540,Yes
+C000330,Lei,Yoon,1977-06-11,Non-binary,Fort Worth,TX,2018-05-06,Partial,Business,124807,605,Yes
+C000331,Richard,Nguyen,1980-05-05,Non-binary,Riverside,CA,2010-07-17,Pending,Student,43062,520,Yes
+C000332,Maria,Singh,1978-11-24,Non-binary,Nashville,TN,2015-04-14,Failed,Retail,270795,755,No
+C000333,Mason,Ramirez,1994-06-29,Male,Dallas,TX,2014-10-16,Pending,Student,78551,682,Yes
+C000334,Timothy,Scott,1971-08-27,Male,Las Vegas,NV,2011-10-11,Pending,Retail,125584,688,Yes
+C000335,Nicole,Patel,1972-02-05,Non-binary,Atlanta,GA,2022-08-21,Pending,Student,173657,781,Yes
+C000336,Divya,Wu,1989-09-10,Female,Corpus Christi,TX,2022-06-17,Partial,Premium,181690,707,Yes
+C000337,Anthony,Smith,1964-12-02,Male,Fresno,CA,2014-05-06,Partial,Wealth,76165,736,Yes
+C000338,Lei,Iyer,1990-11-29,Non-binary,Philadelphia,PA,2021-03-30,Verified,Premium,160956,600,Yes
+C000339,Carolyn,Joshi,1978-09-08,Female,Tampa,FL,2011-11-10,Partial,Senior,74009,817,Yes
+C000340,David,Anderson,1992-09-04,Female,Raleigh,NC,2013-08-21,Pending,Business,42050,548,Yes
+C000341,Barbara,Koné,1995-02-04,Male,Phoenix,AZ,2019-02-25,Partial,Student,278230,630,Yes
+C000342,Nancy,Okonkwo,1957-04-18,Female,Oklahoma City,OK,2018-12-08,Pending,Student,211389,815,Yes
+C000343,James,Traoré,1973-09-10,Non-binary,Lexington,KY,2023-01-31,Partial,Premium,129366,754,Yes
+C000344,Steven,Jackson,1979-04-27,Non-binary,Virginia Beach,VA,2018-04-25,Pending,Premium,187505,593,Yes
+C000345,Janet,Jones,1971-08-25,Non-binary,Charlotte,NC,2017-06-10,Failed,Wealth,52300,715,No
+C000346,Arjun,Clark,1992-09-30,Female,Tampa,FL,2022-10-04,Pending,Business,43848,546,Yes
+C000347,Amit,Okonkwo,1967-05-21,Male,Omaha,NE,2023-10-15,Failed,Retail,34518,670,No
+C000348,Arjun,Osei,1964-02-14,Male,Nashville,TN,2022-11-27,Partial,Student,130028,648,Yes
+C000349,Benjamin,Liu,1986-02-02,Male,Los Angeles,CA,2023-07-06,Pending,Premium,77826,823,No
+C000350,Christopher,Campbell,1973-06-10,Male,Charlotte,NC,2016-09-26,Verified,Business,191487,663,Yes
+C000351,Jason,Zhao,1975-02-10,Non-binary,Indianapolis,IN,2020-05-21,Partial,Business,48492,702,Yes
+C000352,Eric,Lim,1999-01-06,Non-binary,Oklahoma City,OK,2017-02-19,Pending,Senior,87621,830,Yes
+C000353,Michelle,Allen,1981-03-16,Male,Kansas City,MO,2020-08-06,Pending,Student,25832,724,Yes
+C000354,Stephanie,Thompson,1958-02-24,Non-binary,San Francisco,CA,2011-05-16,Failed,Premium,183331,641,No
+C000355,Michael,Smith,1985-09-05,Female,Los Angeles,CA,2020-08-15,Pending,Senior,49233,809,Yes
+C000356,Sneha,Williams,1957-09-20,Non-binary,Austin,TX,2012-05-20,Partial,Student,39008,617,Yes
+C000357,Anthony,Adesanya,1995-05-28,Non-binary,Anaheim,CA,2016-12-30,Partial,Wealth,88608,590,Yes
+C000358,Ethan,Park,1972-08-19,Non-binary,Lexington,KY,2020-01-07,Verified,Student,73968,781,Yes
+C000359,Anna,Williams,1975-09-16,Non-binary,Philadelphia,PA,2023-12-12,Partial,Premium,238296,525,Yes
+C000360,Eric,Smith,1964-02-18,Female,Minneapolis,MN,2018-01-28,Partial,Business,153314,719,Yes
+C000361,Kenneth,Zhang,1993-02-14,Non-binary,Honolulu,HI,2014-11-25,Verified,Premium,34394,751,No
+C000362,Michelle,Singh,1978-01-04,Male,Corpus Christi,TX,2021-04-10,Partial,Wealth,48236,560,Yes
+C000363,Rachel,Gupta,1970-01-12,Non-binary,Virginia Beach,VA,2011-11-17,Partial,Business,195531,829,Yes
+C000364,Gary,Sanchez,1992-09-07,Male,Minneapolis,MN,2018-01-24,Partial,Business,119758,726,Yes
+C000365,Nancy,Scott,1971-03-07,Non-binary,Nashville,TN,2014-10-02,Pending,Wealth,187072,754,Yes
+C000366,Nicholas,Jung,1977-02-18,Female,Baltimore,MD,2019-05-04,Failed,Retail,25908,848,No
+C000367,Betty,Shah,1964-01-21,Female,Charlotte,NC,2022-05-20,Verified,Wealth,133771,742,Yes
+C000368,Rebecca,Lim,1974-09-27,Male,Sacramento,CA,2016-12-30,Verified,Business,127340,622,Yes
+C000369,Benjamin,Anderson,1973-02-27,Male,Anaheim,CA,2019-08-23,Pending,Business,205850,525,No
+C000370,Margaret,Koné,1982-12-17,Female,Stockton,CA,2020-05-24,Failed,Senior,91382,511,No
+C000371,Cynthia,Martin,1984-02-18,Female,Dallas,TX,2014-04-10,Pending,Business,228522,594,Yes
+C000372,Anthony,Yoon,1996-12-10,Male,Las Vegas,NV,2016-09-07,Verified,Retail,194528,547,Yes
+C000373,Larry,Mbeki,1965-10-11,Female,Denver,CO,2011-09-05,Pending,Business,64951,829,Yes
+C000374,Stephen,Harris,1986-12-06,Male,Columbus,OH,2022-12-25,Partial,Senior,98366,726,Yes
+C000375,Timothy,Smith,1963-12-11,Female,Philadelphia,PA,2011-07-17,Pending,Student,222647,735,Yes
+C000376,Noah,Mensah,1993-08-14,Female,Charlotte,NC,2020-06-26,Partial,Retail,48943,553,Yes
+C000377,Ava,Wilson,1991-04-12,Male,Colorado Springs,CO,2012-05-06,Partial,Student,208300,573,Yes
+C000378,Larry,Mitchell,1973-05-05,Male,San Jose,CA,2022-05-17,Verified,Premium,99568,534,Yes
+C000379,Lisa,Rodriguez,1988-11-15,Male,Phoenix,AZ,2023-10-05,Partial,Premium,131054,587,Yes
+C000380,Elizabeth,Mensah,1991-02-21,Male,Philadelphia,PA,2023-09-06,Pending,Business,107052,713,Yes
+C000381,Lei,Smith,1997-10-12,Male,Baltimore,MD,2016-11-26,Failed,Senior,54212,775,No
+C000382,Thomas,Nguyen,1979-09-22,Non-binary,Sacramento,CA,2014-12-14,Partial,Student,226385,806,Yes
+C000383,Matthew,Kang,1988-05-20,Female,El Paso,TX,2022-06-19,Failed,Business,120386,509,No
+C000384,Katherine,Mitchell,1984-04-15,Female,Santa Ana,CA,2017-11-05,Verified,Premium,253850,532,Yes
+C000385,Sarah,Wright,1991-09-04,Female,Denver,CO,2012-09-29,Verified,Business,75079,812,Yes
+C000386,Catherine,Wilson,1973-03-19,Female,Nashville,TN,2016-07-28,Verified,Senior,293582,847,Yes
+C000387,Maria,Wright,1980-05-20,Male,Virginia Beach,VA,2015-07-06,Verified,Student,113706,506,Yes
+C000388,Larry,Zhang,1996-08-23,Non-binary,Albuquerque,NM,2023-03-22,Pending,Student,272550,808,Yes
+C000389,Dennis,Taylor,1959-12-27,Male,Tucson,AZ,2011-10-12,Partial,Business,27057,640,Yes
+C000390,Donna,Miller,1956-12-07,Male,Seattle,WA,2010-12-16,Verified,Retail,228991,607,Yes
+C000391,Amit,Lewis,1993-08-09,Non-binary,Denver,CO,2023-06-12,Pending,Senior,220187,686,Yes
+C000392,Andrew,Clark,1956-12-18,Female,Fort Worth,TX,2023-02-04,Pending,Premium,274271,585,Yes
+C000393,Rebecca,Sow,1976-10-04,Female,Atlanta,GA,2012-10-19,Pending,Premium,204755,549,Yes
+C000394,Hong,Thomas,1984-05-10,Female,Milwaukee,WI,2010-01-23,Verified,Retail,228191,797,Yes
+C000395,Andrew,Garcia,1989-12-29,Female,Santa Ana,CA,2013-11-27,Failed,Wealth,64795,671,No
+C000396,Stephanie,Shah,1989-07-17,Non-binary,Dallas,TX,2010-03-09,Failed,Student,27724,773,No
+C000397,Maria,Green,1987-06-01,Male,Philadelphia,PA,2019-11-13,Verified,Wealth,220922,571,Yes
+C000398,Jennifer,Nair,1989-09-12,Non-binary,Fort Worth,TX,2016-06-09,Failed,Senior,84197,534,No
+C000399,Amit,Singh,1971-01-22,Male,Kansas City,MO,2017-12-20,Failed,Business,42981,755,No
+C000400,Cynthia,Kang,1968-08-05,Non-binary,Honolulu,HI,2018-12-25,Partial,Retail,213903,745,Yes
+C000401,Karen,Perez,1961-02-25,Male,Milwaukee,WI,2018-09-06,Partial,Premium,261133,591,Yes
+C000402,Eric,Carter,1986-04-09,Non-binary,Lexington,KY,2013-08-20,Pending,Retail,167151,615,Yes
+C000403,Lei,Mensah,1992-04-07,Non-binary,Sacramento,CA,2022-07-19,Failed,Senior,100368,615,No
+C000404,Noah,Diallo,1992-08-18,Female,Anchorage,AK,2018-03-03,Pending,Business,105764,555,Yes
+C000405,Nicole,Wilson,1997-04-21,Non-binary,Long Beach,CA,2022-12-13,Failed,Senior,138476,805,No
+C000406,Nancy,Thomas,1988-11-16,Non-binary,Portland,OR,2012-07-19,Pending,Business,204002,818,Yes
+C000407,Catherine,Gupta,1993-05-28,Male,Las Vegas,NV,2016-10-01,Pending,Business,162435,821,Yes
+C000408,Kevin,Kang,1984-11-02,Female,Aurora,CO,2012-12-18,Pending,Premium,197925,696,Yes
+C000409,Amy,Mbeki,1971-09-17,Male,Virginia Beach,VA,2022-10-13,Pending,Student,273248,782,Yes
+C000410,Michelle,Choi,1982-03-05,Female,Los Angeles,CA,2013-10-23,Partial,Business,258200,712,Yes
+C000411,Anthony,Mitchell,1996-12-21,Non-binary,Albuquerque,NM,2021-11-29,Verified,Student,289210,844,Yes
+C000412,Amanda,Lee,1983-06-10,Female,Riverside,CA,2021-07-01,Pending,Retail,161341,806,Yes
+C000413,Jacob,Okonkwo,1965-02-08,Male,Pittsburgh,PA,2017-01-14,Partial,Business,197626,621,Yes
+C000414,Kathleen,Thomas,1981-01-18,Female,Seattle,WA,2012-02-29,Verified,Premium,59383,821,Yes
+C000415,David,Thomas,1984-07-15,Non-binary,Indianapolis,IN,2023-09-21,Pending,Student,279951,561,Yes
+C000416,Stephanie,Garcia,1972-01-31,Male,Columbus,OH,2023-03-19,Failed,Wealth,98001,832,No
+C000417,Anthony,Taylor,1955-06-29,Female,Philadelphia,PA,2017-09-19,Verified,Wealth,85372,711,Yes
+C000418,Amanda,Jones,1998-12-31,Non-binary,Portland,OR,2023-12-23,Partial,Student,258062,627,Yes
+C000419,Jacob,Scott,1957-02-11,Non-binary,New Orleans,LA,2023-02-03,Verified,Premium,102837,727,No
+C000420,Robert,Miller,1986-03-17,Male,Washington,DC,2019-03-18,Failed,Senior,145611,784,No
+C000421,Mark,Nair,1970-07-01,Male,Seattle,WA,2012-05-06,Verified,Student,81509,792,Yes
+C000422,Brenda,Choi,1970-07-04,Female,Charlotte,NC,2017-11-14,Verified,Premium,105307,787,Yes
+C000423,Jerry,Han,1995-07-21,Non-binary,Charlotte,NC,2022-01-13,Verified,Retail,49660,619,Yes
+C000424,Nicole,Scott,1989-06-04,Female,Sacramento,CA,2022-08-20,Partial,Business,82282,850,Yes
+C000425,Patrick,Sanchez,1963-10-12,Male,Indianapolis,IN,2010-04-27,Failed,Senior,182013,761,No
+C000426,Jeffrey,Ndidi,1995-05-28,Female,Phoenix,AZ,2023-12-23,Failed,Business,82442,783,No
+C000427,Edward,Zhao,1998-11-25,Female,Anaheim,CA,2023-12-23,Failed,Business,65504,606,No
+C000428,Lisa,Davis,1979-11-22,Female,Omaha,NE,2021-01-21,Partial,Retail,31216,801,Yes
+C000429,Brian,Huang,1967-05-17,Non-binary,Jacksonville,FL,2019-04-24,Failed,Wealth,113499,784,No
+C000430,Wei,Choi,1985-04-07,Non-binary,Los Angeles,CA,2021-12-27,Partial,Student,130725,789,Yes
+C000431,Catherine,Wilson,1974-10-11,Non-binary,Anaheim,CA,2016-01-24,Failed,Wealth,178436,504,No
+C000432,Sandra,Huang,1958-09-07,Non-binary,Fort Worth,TX,2022-11-03,Pending,Premium,65399,803,Yes
+C000433,Barbara,Mbeki,1968-01-30,Non-binary,Pittsburgh,PA,2021-08-18,Pending,Business,37910,705,Yes
+C000434,Joshua,Cho,1999-10-06,Male,Lexington,KY,2019-08-25,Failed,Senior,81035,728,No
+C000435,Ethan,Liu,1961-10-06,Male,Atlanta,GA,2022-05-09,Partial,Retail,104196,738,Yes
+C000436,Stephen,Osei,1990-03-03,Female,Atlanta,GA,2019-07-09,Failed,Student,87282,826,No
+C000437,Yan,Zhao,1967-11-04,Male,Chicago,IL,2020-08-06,Partial,Premium,157204,506,Yes
+C000438,Mary,Nelson,1985-01-21,Non-binary,Memphis,TN,2020-07-17,Verified,Senior,83568,732,Yes
+C000439,Joseph,White,1997-10-02,Male,Pittsburgh,PA,2017-05-23,Failed,Senior,225881,697,No
+C000440,Lei,Lopez,1986-05-25,Non-binary,San Jose,CA,2018-03-02,Failed,Wealth,258472,751,No
+C000441,Xiao,White,1998-02-10,Male,Minneapolis,MN,2016-12-04,Partial,Retail,43040,764,Yes
+C000442,Anna,Baker,1972-03-02,Non-binary,Indianapolis,IN,2022-12-24,Verified,Senior,212516,547,Yes
+C000443,Brenda,Lee,1996-05-09,Male,Omaha,NE,2014-12-23,Verified,Retail,98634,598,Yes
+C000444,Joshua,Singh,1997-06-11,Male,Pittsburgh,PA,2017-10-14,Pending,Premium,54417,833,Yes
+C000445,Priya,Joshi,1996-03-27,Female,Austin,TX,2023-12-23,Partial,Business,166467,660,Yes
+C000446,Thomas,Chen,1999-05-04,Male,New Orleans,LA,2023-12-23,Verified,Retail,70756,700,Yes
+C000447,Jessica,Ramirez,1991-03-29,Male,Chicago,IL,2016-10-28,Verified,Student,254333,543,Yes
+C000448,Jun,Mehta,1995-10-27,Female,San Diego,CA,2019-04-29,Partial,Business,69099,757,Yes
+C000449,Noah,Mitchell,1957-10-27,Female,Indianapolis,IN,2017-09-09,Pending,Business,127610,545,Yes
+C000450,Christine,Walker,1988-06-05,Male,Fresno,CA,2018-01-15,Verified,Retail,44544,501,Yes
+C000451,Jerry,Johnson,1966-07-18,Male,Minneapolis,MN,2015-01-17,Verified,Retail,156275,630,Yes
+C000452,Jun,Wu,1982-10-29,Female,St. Louis,MO,2015-10-10,Failed,Premium,244716,801,No
+C000453,Sharon,Wang,1997-02-08,Female,St. Louis,MO,2021-11-12,Verified,Student,185362,642,Yes
+C000454,Laura,Lim,1989-04-10,Male,Columbus,OH,2017-09-06,Pending,Student,83192,608,Yes
+C000455,Christopher,Martin,1963-03-21,Male,Lexington,KY,2012-05-24,Verified,Student,278866,710,Yes
+C000456,Samantha,Nguyen,1956-12-07,Female,Tucson,AZ,2011-02-11,Verified,Wealth,26370,540,Yes
+C000457,Nicholas,Nelson,1993-05-11,Female,New York,NY,2017-08-17,Verified,Senior,37065,806,Yes
+C000458,Jennifer,Wright,1964-01-28,Non-binary,Baltimore,MD,2020-11-17,Verified,Business,128766,684,Yes
+C000459,Brandon,Li,1955-06-04,Female,Columbus,OH,2018-09-22,Verified,Student,62306,847,Yes
+C000460,Ryan,Adams,1974-02-26,Female,Albuquerque,NM,2010-02-10,Pending,Student,166758,714,Yes
+C000461,Catherine,Hall,1973-03-22,Non-binary,Baltimore,MD,2016-04-03,Verified,Wealth,73202,638,Yes
+C000462,William,Gonzalez,1985-10-03,Female,Denver,CO,2012-12-01,Partial,Senior,270764,553,Yes
+C000463,Dennis,Huang,1956-11-19,Non-binary,Lexington,KY,2023-05-04,Verified,Wealth,267285,728,No
+C000464,Rahul,Huang,1978-06-05,Non-binary,Albuquerque,NM,2022-12-28,Partial,Premium,130854,527,Yes
+C000465,Frank,Hernandez,1987-02-09,Female,Louisville,KY,2010-09-01,Partial,Business,157084,641,Yes
+C000466,Lei,Martin,1976-05-10,Female,St. Louis,MO,2016-01-19,Partial,Senior,75809,668,Yes
+C000467,Jeffrey,Nair,1989-04-17,Male,Riverside,CA,2013-05-14,Failed,Business,104654,825,No
+C000468,Richard,Zhang,1999-12-24,Male,Fresno,CA,2022-02-24,Partial,Retail,175605,564,Yes
+C000469,Jacob,Johnson,1985-07-26,Female,Dallas,TX,2021-10-15,Failed,Senior,54532,580,No
+C000470,Hui,Jones,1997-05-24,Male,New Orleans,LA,2023-11-24,Partial,Wealth,117340,810,Yes
+C000471,Stephen,Flores,1958-08-28,Non-binary,New Orleans,LA,2020-02-17,Pending,Senior,140132,749,Yes
+C000472,Ling,Diallo,1985-09-17,Female,Pittsburgh,PA,2016-07-09,Pending,Student,129607,798,Yes
+C000473,Samantha,Kim,1971-08-30,Male,Houston,TX,2018-12-12,Partial,Senior,138577,641,Yes
+C000474,Samuel,Ndidi,1988-03-30,Female,Corpus Christi,TX,2019-10-24,Partial,Wealth,205290,556,Yes
+C000475,Dennis,Thomas,1991-09-08,Male,Anchorage,AK,2011-07-17,Pending,Business,248977,764,Yes
+C000476,Scott,Mehta,1997-07-28,Male,Portland,OR,2017-04-14,Pending,Wealth,97804,696,Yes
+C000477,Hui,Baker,1969-05-07,Male,New York,NY,2022-03-21,Failed,Retail,169133,842,No
+C000478,Lei,Choi,1964-07-06,Female,Albuquerque,NM,2023-04-01,Pending,Wealth,90778,786,Yes
+C000479,George,Yang,1990-03-03,Non-binary,Virginia Beach,VA,2022-06-11,Pending,Student,45683,842,Yes
+C000480,Kathleen,Young,1996-12-03,Male,San Francisco,CA,2022-10-05,Verified,Student,66167,737,Yes
+C000481,Donald,Thomas,1991-11-02,Male,Austin,TX,2022-10-30,Failed,Business,272693,789,No
+C000482,Barbara,Scott,1986-06-02,Male,Omaha,NE,2010-02-24,Partial,Senior,170803,635,Yes
+C000483,Karen,Sanchez,1967-05-06,Male,Austin,TX,2019-01-13,Pending,Business,138667,778,Yes
+C000484,John,Nguyen,1996-12-05,Non-binary,San Francisco,CA,2023-08-14,Failed,Wealth,56387,762,No
+C000485,Lisa,Rivera,1963-12-28,Male,Jacksonville,FL,2015-07-08,Pending,Premium,272016,840,Yes
+C000486,Sneha,Taylor,1989-02-27,Female,Raleigh,NC,2015-04-24,Pending,Senior,267920,766,Yes
+C000487,Sarah,Lee,1970-04-11,Male,Boston,MA,2015-03-10,Pending,Retail,84949,644,Yes
+C000488,Stephen,Campbell,1984-11-29,Male,Anaheim,CA,2010-12-13,Verified,Senior,280560,788,Yes
+C000489,Linda,Sanchez,1966-09-02,Female,Austin,TX,2016-11-25,Pending,Retail,115812,810,Yes
+C000490,Donald,Park,1981-04-16,Male,Minneapolis,MN,2010-10-06,Failed,Senior,59933,668,No
+C000491,Jason,Mensah,1956-03-25,Female,Kansas City,MO,2020-11-10,Pending,Student,194851,551,Yes
+C000492,Divya,Lewis,1982-10-03,Non-binary,Pittsburgh,PA,2020-10-05,Partial,Wealth,195872,767,Yes
+C000493,Janet,Smith,1975-02-19,Non-binary,Honolulu,HI,2013-11-15,Verified,Senior,33430,783,Yes
+C000494,Melissa,Carter,1967-02-05,Male,Mesa,AZ,2022-02-21,Partial,Business,59587,519,Yes
+C000495,Yan,Han,1991-01-19,Female,New York,NY,2018-06-22,Verified,Student,36674,760,Yes
+C000496,Larry,Ndidi,1969-03-31,Female,Louisville,KY,2013-11-10,Partial,Wealth,34291,696,Yes
+C000497,Dorothy,Flores,1965-05-29,Male,Oklahoma City,OK,2023-12-15,Failed,Business,139550,521,No
+C000498,Fang,Jones,1960-12-23,Male,Anaheim,CA,2021-01-27,Pending,Premium,119247,600,Yes
+C000499,Cynthia,Zhao,1987-07-13,Non-binary,St. Louis,MO,2023-04-03,Failed,Premium,241392,735,No
+C000500,Joseph,Li,1986-06-24,Female,Pittsburgh,PA,2013-06-28,Verified,Business,132256,724,Yes
