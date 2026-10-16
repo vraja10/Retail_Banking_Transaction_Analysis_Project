@@ -20,7 +20,7 @@ as_of_date = transactions["transaction_date"].max().date()
 
 st.set_page_config(page_title="Retail Banking Analytics", page_icon="🏦", layout="wide")
 st.title("Retail Banking Transaction Analysis")
-st.caption(f"Portfolio dashboard | Project reference date: {as_of_date} (latest transaction date)")
+st.caption(f"Portfolio dashboard")
 
 st.sidebar.header("Filters")
 status_options = sorted(transactions["status"].dropna().unique().tolist())
