@@ -96,6 +96,7 @@ erDiagram
 ## Resume bullet (edit to match your actual contribution)
 - Built a retail banking analytics portfolio project using MySQL and Python to model seven relational tables, validate data integrity, analyze 5,000 transactions and 2,000 loan-payment records, and develop business-focused insights into transaction statuses, loan risk, KYC completion and card engagement.
 
+you use this 
 
 py -3.13 -m venv .venv
 
